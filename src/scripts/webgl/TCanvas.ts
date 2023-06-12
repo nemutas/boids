@@ -88,7 +88,7 @@ export class TCanvas {
 
   private createObstacle() {
     const geometry = new THREE.IcosahedronGeometry(1.8, 8)
-    const material = new THREE.MeshStandardMaterial()
+    const material = new THREE.MeshStandardMaterial({ color: '#0f0f0f' })
     const mesh = new THREE.Mesh(geometry, material)
     mesh.castShadow = true
     mesh.receiveShadow = true
