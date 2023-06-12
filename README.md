@@ -1,11 +1,9 @@
 # About
 
-This repository is [Three.js](https://threejs.org/) template with [Astro](https://astro.build/).
-
 https://nemutas.github.io/boids/
 
-# Using
+<img src='https://github.com/nemutas/boids/assets/46724121/3891b02d-f3c4-4d84-ac81-21ff328bd8b3' width='800' />
 
-- VSCode
-- [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) (v1.3.0 -> If the extension is set to glsl, errors originating from threejs built-in variables will not occur.)
-- [Prettier Plugin for Astro](https://github.com/withastro/prettier-plugin-astro)
+# References
+
+- [Chapter 63 Boids](https://zenn.dev/baroqueengine/books/a19140f2d9fc1a/viewer/c33878)
