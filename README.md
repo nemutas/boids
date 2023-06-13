@@ -6,4 +6,4 @@ https://nemutas.github.io/boids/
 
 # References
 
-- [Chapter 63 Boids](https://zenn.dev/baroqueengine/books/a19140f2d9fc1a/viewer/c33878)
+- [クリエイティブコーディングの教科書 Chapter 63 Boids](https://zenn.dev/baroqueengine/books/a19140f2d9fc1a/viewer/c33878)
